@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/@mrvineetverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mrvineetverma" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vineet-verma-33035320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vineet-verma-33035320/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7174722/vineet-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7174722/vineet-verma" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7174722/vineet-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7174722/vineet-verma" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/vineet.verma.397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vineet.verma.397" height="30" width="40" /></a>
 </p>
 
